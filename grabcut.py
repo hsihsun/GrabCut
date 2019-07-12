@@ -1,8 +1,8 @@
 import numpy as np
 from sklearn.cluster import KMeans
-from sklearn.cluster import DBSCANw rewrewrewre
+#from sklearn.cluster import DBSCANw 
 from scipy import misc
-from scipy.stats import multivariate_normal  ewrerewrewre
+from scipy.stats import multivariate_normal  
 from numpy import linalg as LA
 import cv2
 import matplotlib.pyplot as plt
