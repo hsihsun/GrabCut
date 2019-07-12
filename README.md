@@ -2,11 +2,25 @@
 
 It is my implementation of Interactive GrabCut Segmentation.
 
-How to execute:
+
+This project implements
+
+    @article{rother2004grabcut,
+      title={Grabcut: Interactive foreground extraction using iterated graph cuts},
+      author={Rother, Carsten and Kolmogorov, Vladimir and Blake, Andrew},
+      journal={ACM Transactions on Graphics (TOG)},
+      volume={23},
+      number={3},
+      pages={309--314},
+      year={2004},
+      publisher={ACM}
+    }
+
+# How to execute:
 
 Comments: python3 grabcut.py ./Data/test1.jpg 20 5 2 2 1
 
-Paremeters:
+# Paremeters:
 
 1.Path of image                    (here: Data/test1.jpg)
 2.Number of iteration              (here: 20)
