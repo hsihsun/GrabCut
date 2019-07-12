@@ -1,6 +1,6 @@
 import numpy as np
 from sklearn.cluster import KMeans
-#from sklearn.cluster import DBSCANw 
+from sklearn.cluster import DBSCAN
 from scipy import misc
 from scipy.stats import multivariate_normal  
 from numpy import linalg as LA
