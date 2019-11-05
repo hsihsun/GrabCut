@@ -1,4 +1,4 @@
-# GrabCut
+# Interactive Image Segmentation (GrabCut + KNN Matting)
 
 It is my implementation of Interactive GrabCut Segmentation.
 
