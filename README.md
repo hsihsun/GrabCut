@@ -1,6 +1,6 @@
-# Interactive Image Segmentation (GrabCut + KNN Matting)
+# Interactive Image Segmentation
 
-It is my implementation of Interactive GrabCut Segmentation.
+It is my implementation of Interactive Image Segmentation using GrabCut and KNN Matting.
 
 
 This project implements
