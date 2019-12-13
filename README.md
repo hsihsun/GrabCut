@@ -1,6 +1,6 @@
 # Interactive Image Segmentation
 
-It is my implementation of Interactive Image Segmentation using GrabCut.
+It is my implementation of Grabcut for interactive image segmentation.
 
 
 This project implements
