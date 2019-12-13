@@ -1,4 +1,4 @@
-# Interactive Image Segmentation
+# Interactive Grabcut
 
 It is my implementation of Grabcut for interactive image segmentation.
 
