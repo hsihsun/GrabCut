@@ -3,8 +3,8 @@
 It is my implementation of Grabcut for interactive image segmentation.
 
 <p float="left">
-  <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/Data/test3.jpg" width="100" />
-  <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/grabcut.jpg" width="100" /> 
+  <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/Data/test3.jpg" width="500" />
+  <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/grabcut.jpg" width="500" /> 
 </p>
 
 
