@@ -22,7 +22,9 @@ This project implements
       publisher={ACM}
     }
 
-# How to execute:
+# How to setup and execute:
+
+Please download this repository and install https://github.com/pmneila/PyMaxflow
 
 Example: python3 grabcut.py ./Data/test1.jpg 10 5 2 5 1
 
