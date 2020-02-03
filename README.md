@@ -23,7 +23,7 @@ This project implements
 
 # How to execute:
 
-Example: python3 grabcut.py ./Data/test1.jpg 10 5 2 2 1
+Example: python3 grabcut.py ./Data/test1.jpg 10 5 2 5 1
 
 # Paremeters:
 
@@ -36,7 +36,7 @@ Example: python3 grabcut.py ./Data/test1.jpg 10 5 2 2 1
 
 4.Scaling to resize image          (here: 2)--> image from (H by W) to (H/2 by W/2)
 
-5.Gamma value                      (here: 2)
+5.Gamma value                      (here: 5)
 
 6.show alpha map or not (1 or 0)   (here: 1)
 ```
