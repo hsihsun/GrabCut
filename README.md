@@ -18,18 +18,20 @@ This project implements
 
 # How to execute:
 
-Example: python3 grabcut.py ./Data/test1.jpg 20 5 2 2 1
+Example: python3 grabcut.py ./Data/test1.jpg 10 5 2 2 1
 
 # Paremeters:
 
 ```
 1.Path of image                    (here: Data/test1.jpg)
 
-2.Number of iteration              (here: 20)
+2.Number of iteration              (here: 10)
 
 3.Number of clusters in GMM        (here: 5)
 
 4.Scaling to resize image          (here: 2)--> image from (H by W) to (H/2 by W/2)
 
-5.show alpha map or not (1 or 0)   (here: 1)
+5.Gamma value                      (here: 2)
+
+6.show alpha map or not (1 or 0)   (here: 1)
 ```
