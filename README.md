@@ -1,6 +1,6 @@
 # Interactive Grabcut
 
-It is my implementation of Grabcut for interactive image segmentation.
+It is my python implementation of Grabcut for interactive image segmentation.
 
 <p float="left">
   <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/Data/test3.jpg" width="250" />
