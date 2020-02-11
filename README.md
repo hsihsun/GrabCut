@@ -8,13 +8,6 @@ It is my python implementation of Grabcut for interactive image segmentation.
   <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/readme_data/grabcut.jpg" width="250" /> 
 </p>
 
-<p float="left">
-  <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/Data/test3.jpg" width="250" />
-  <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/select.jpg" width="250" /> 
-  <img src="https://github.com/hsihsun/Interactive-Grabcut/blob/master/grabcut.jpg" width="250" /> 
-</p>
-
-
 
 This project implements
 
